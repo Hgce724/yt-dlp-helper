@@ -33,10 +33,10 @@ An incorrect installation will appear as follows:\
 ![https://i.imgur.com/UApRbxf.png](https://i.imgur.com/UApRbxf.png)\
 A correct installation will appear as follows:\
 ![https://i.imgur.com/WdT8DhL.png](https://i.imgur.com/WdT8DhL.png)\
-Input the URL of the song you want eg. "https://soundcloud.com/aloboi/its-ok-just-raw"\
+Input the URL of the song you want eg. "https://soundcloud.com/aloboi/its-ok-just-raw" \
 copy and paste (highlight and right click) the correct format you want to download\
 input where you want to save this file ( Default is C:\Users\username\Downloads )\
-<sub>if you want to use the default, then press enter</sub>\
+<sup>**if you want to use the default, then press enter**</sup>\
 Thats it. The program will ask if you want to open the location it saved it to, and then exit.
 
 
