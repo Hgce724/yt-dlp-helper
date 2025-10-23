@@ -15,12 +15,15 @@ if you want more customization you can use yt-dlp from the command line - this b
 ## This will throw a warning from windows saying that the file is unsigned - do not worry, that's normal for this. 
 ![https://i.imgur.com/0TjjMEH.png](https://i.imgur.com/0TjjMEH.png)
 ### grab yt-dlp from the [official distro](https://github.com/yt-dlp/yt-dlp)
-usually this will be _yt-dlp_x86.exe_ 
+usually this will be _yt-dlp_x86.exe_  \
+rename it from _yt-dlp_x86.exe_ to yt-dlp.exe\
+download the batch file from the releases tab on the right
 ### move yt-dlp to any folder that contains the name yt-dlp inside it 
-(mine is "yt-dlp (soundcloud downloader)")
+(mine is "yt-dlp (soundcloud downloader)")\
+you might want to put the batch file into the same folder for ease of access
 ### add folder containing yt-dlp into windows PATH
-this is hard for people who haven't dealt with windows environment variables
-
+this is hard for people who haven't dealt with windows environment variables\
+__DO *NOT* MAKE DOWNLOADS A PATH FOLDER__\
 go to windows settings ( Win+I )\
 follow this: System > About > Advanced System Settings > Environment Variables... > PATH ( or Path )\
 click edit, then select "New" and paste the path to your install folder inside the new line
