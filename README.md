@@ -1,4 +1,5 @@
 # yt-dlp-helper
+THIS IS NOT REQUIRED FOR yt-dlp AT ALL
 batch file for guiding users in the command prompt to downloading music from websites using yt-dlp. This is my first program that im publishing so pls tell me if something is wrong.
 
 please please please tell me if i got something wrong in the code
