@@ -1,6 +1,8 @@
 # yt-dlp-helper
 batch file for guiding users in the command prompt to downloading music from websites using yt-dlp. This is my first program that im publishing so pls tell me if something is wrong.
 
+please please please tell me if i got something wrong in the code
+
 # what is it?
 read the description 
 no but seriously its just a simple batch file that uses yt-dlp to download music \
