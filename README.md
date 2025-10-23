@@ -1,8 +1,6 @@
 # yt-dlp-helper
 batch file for guiding users in the command prompt to downloading music from websites using yt-dlp. This is my first program that im publishing so pls tell me if something is wrong.
 
-## This will throw a warning from windows saying that the file is unsigned - do not worry, that's normal for this. ##
-
 # what is it?
 read the description 
 no but seriously its just a simple batch file that uses yt-dlp to download music \
@@ -12,6 +10,8 @@ if you want more customization you can use yt-dlp from the command line - this b
 - yt-dlp.exe install folder MUST be on PATH and the folder must contain yt-dlp in it.
 - This script (for now) is Windows only 
 # Installation Instructions 
+## This will throw a warning from windows saying that the file is unsigned - do not worry, that's normal for this. 
+![https://i.imgur.com/0TjjMEH.png](https://i.imgur.com/0TjjMEH.png)
 ### grab yt-dlp from the [official distro](https://github.com/yt-dlp/yt-dlp)
 usually this will be _yt-dlp_x86.exe_ 
 ### move yt-dlp to any folder that contains the name yt-dlp inside it 
